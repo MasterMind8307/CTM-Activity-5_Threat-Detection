@@ -20,7 +20,7 @@ Create an incident report
 Recommend escalation actions
 
 
-**Instructions for Students**
+**Instructions for Trainees**
 
 **Phase 1: Log Review**
 Review all 100 network logs provided.
